@@ -141,6 +141,7 @@ The instructions label contains text that tells players what they need to do in 
 After you type in your colour value, hit enter key on your keyboard to submit it and begin playing!
 The code creates a window that has the title “COLORGAME” and a label for instructions.
 The window is 375×200 pixels in size, and the label is added to the window at (0, 0).
+
 The next section of code sets up some variables.
 The first variable, ‘colours’, stores an array of six colours: Red, Blue, Green, Pink, Black, and Yellow.
 The second variable, ‘score’, stores the current score of the game.
